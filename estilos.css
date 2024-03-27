@@ -1,0 +1,35 @@
+.concert-one-regular {
+  font-family: "Concert One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.accordion-body
+{
+  background-color: rgb(243, 163, 230);
+}
+.cuerpo
+{
+  background-color: deeppink;
+  margin: 5px;
+}
+.container
+{
+    background-color: aquamarine;
+    /*width: 400px;*/
+    height: 150px;
+    /* es de tamaño fijo*/
+}    
+
+.row
+{
+    background-color: rgba(252, 117, 173, 0.986);
+    margin: 5px;
+}
+.navbar-brand
+{
+  font-family: "Concert One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  background-color: hotpink;
+  margin: 2px;
+}

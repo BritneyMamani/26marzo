@@ -1,0 +1,53 @@
+.concert-one-regular {
+    font-family: "Concert One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.caja
+{
+   background-color: deeppink; 
+   margin: 5px;
+   padding: auto;
+   font-family: 'Courier New', Courier, monospace;
+   height: 500px;
+   font-size: 500%;
+}  
+.caja2
+{
+   background-color: rgb(248, 78, 169); 
+   margin: 5px;
+   padding: auto;
+   font-family: 'Courier New', Courier, monospace;
+   height: 500px;
+   font-size: 500%;
+} 
+.caja3
+{
+   background-color: rgb(184, 13, 104); 
+   margin: 5px;
+   padding: auto;
+   height: 500px;
+   font-size: 500%;
+   font-family: 'Courier New', Courier, monospace;
+} 
+#cajita
+{
+    background-color: rgb(253, 198, 235);
+    margin: 3px;
+    height: 400px;
+    font-size: 30%;
+}
+#cajita2
+{
+    background-color: rgb(253, 198, 235);
+    margin: 3px;
+    height: 300px;
+    font-size: 30%;
+}
+#cajita3
+{
+    background-color: rgb(253, 198, 235);
+    margin: 3px;
+    height: 400px;
+    font-size: 30%;
+}
